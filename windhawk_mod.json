@@ -1,0 +1,12 @@
+{
+  "name": "macos-titlebar",
+  "description": "Centers the window title and replaces control buttons with macOS-style buttons",
+  "author": "S_LS",
+  "version": "1.0.0",
+  "settings": {
+    "targetApps": {
+      "description": "List of executable files to apply the macOS-style title bar (separated by ;) ",
+      "default": "notepad.exe;calc.exe"
+    }
+  }
+}

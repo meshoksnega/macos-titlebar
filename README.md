@@ -20,6 +20,3 @@ A Windhawk mod that applies macOS-style title bars to selected Windows applicati
 - The mod applies to applications specified in the `@include` metadata.
 - To disable the mod, toggle it off in Windhawk's interface.
 
-## License
-
-This project is licensed under the MIT License.
